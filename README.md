@@ -4,7 +4,7 @@ By [Tao Hu](https://ecart18.github.io/), [Lichao Huang](https://scholar.google.c
 
 The code for the official implementation of paper **[SATA](https://arxiv.org/abs/1908.00692)**. 
 
-The code will be made publicly available after review.
+The code will be made publicly available shortly.
 
 ## Contents
 1. [Motivation](#motivation)
