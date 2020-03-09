@@ -25,11 +25,10 @@ The code will be made publicly available after review.
 The OPE/TRE/SRE results on OTB [GoogleDrive](https://drive.google.com).
 
 **OTB2013:** 
-
-![result on OTB](results/otb13.png)
+<div align='center'><img align="middle" src="results/otb13.png" width="70%" /><br></div>
 
 **OTB2015:** 
-![result on OTB](results/otb15.png)
+<div align='center'><img align="middle" src="results/otb13.png" width="70%" /><br></div>
 
 
 **Note:** 
